@@ -1,0 +1,74 @@
+
+.header h1 {
+   margin: 0em;
+   text-align: center;
+  
+}
+
+.header h1, h2 {
+    text-align: center;   
+}
+
+.header{
+    width: 100%; 
+    margin-left: 1.5rem; 
+    height: 15em;
+    padding: 5em; 
+    font-size: 2em;
+    background-image: url("../img/deporteparatodo.jpg");
+    background-size: cover;
+    background-position: center;
+    color: yellow;
+    }
+    .header h1{
+    margin: 5px;
+    font-weight: 300;
+    }
+
+
+body {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode',
+    Geneva, Verdana, sans-serif;
+    margin-top: auto;
+    margin-left: auto;
+    
+    }
+    
+
+    h3 {
+        color: red;
+    }
+
+    .maquinas {
+        width: 80%;
+        margin: auto;
+        }
+        .maquinas td {
+        width: 50%;
+        padding: 2em;
+        text-align: justify;
+        
+        }
+        .maquinas img {
+        width: 100%;
+        border: solid 2px gray;
+      
+        }
+
+        .footer {
+            height: 3em;
+            line-height: 3em;
+            background-color: grey;
+            color: white;
+            text-align: center;
+            font-weight: 900;
+            
+            }
+
+            
+
+
+
+
+    
+    
